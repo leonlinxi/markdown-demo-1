@@ -16,9 +16,9 @@
 
 然后是CSS
 ```css
-.nav {
+body {
   font-size: 20px;
-	color: red;
+  color: red;
 }
 ```
 
